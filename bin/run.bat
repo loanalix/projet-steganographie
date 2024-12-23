@@ -1,0 +1,2 @@
+solutiongenerator -make ..\
+
